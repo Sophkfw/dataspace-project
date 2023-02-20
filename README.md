@@ -1,4 +1,4 @@
-## Dataspace Project
+Dataspace Project
 ====================
 Project 1 in the data analysis skills bootcamp.
 
